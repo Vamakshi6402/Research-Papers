@@ -41,4 +41,4 @@ These papers are shared as part of my professional portfolio to demonstrate **re
 
 ---
 
-For professional or recruitment inquiries, please connect with me on [LinkedIn] (https://www.linkedin.com/in/vamakshi-chaturvedi-283827206)
+For professional or recruitment inquiries, please connect with me on **[LinkedIn](https://www.linkedin.com/in/vamakshi-chaturvedi-283827206/)**.
