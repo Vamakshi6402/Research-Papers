@@ -42,3 +42,10 @@ These papers are shared as part of my professional portfolio to demonstrate **re
 ---
 
 For professional or recruitment inquiries, please connect with me on **[LinkedIn](https://www.linkedin.com/in/vamakshi-chaturvedi-283827206/)**.
+
+---
+
+© 2025 Vamakshi Chaturvedi.  
+All rights reserved. The research papers in this repository are original works prepared for academic and professional purposes.  
+They may not be copied, reproduced, or distributed without explicit permission from the author.  
+
