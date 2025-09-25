@@ -16,8 +16,8 @@ These works demonstrate my ability to:
 **Institution:** University of Manchester – MSc Economics  
 **Year:** 2025  
 
-- 📄 [View Executive Summary](./docs/Dissertation_ExecutiveSummary_GraduateUnemployment_India_2025.pdf)  
-- 📄 [View Full Paper](./docs/Dissertation_GraduateUnemployment_India_2025.pdf)  
+- 📄 [View Executive Summary](https://github.com/Vamakshi6402/Research-Papers/blob/main/docs/01_Dissertation_ExecutiveSummary_GraduateUnemployment_India_2025.pdf)  
+- 📄 [View Full Dissertation](./docs/02_Dissertation_GraduateUnemployment_India_2025.pdf)  
 
 **Skills Used:** Fixed Effects Panel Data Regression, Ridge Regularization, econometric modeling, robustness checks, policy analysis, qualitative case studies.  
 
@@ -28,9 +28,9 @@ These works demonstrate my ability to:
 **Type:** Independent Project  
 **Year:** 2025  
 
-- 📄 [View Executive Summary](./docs/Independent_Research_DigitalEconomy_2010_2023.pdf)  
+- 📄 [View Full Paper](./docs/03_Independent_Research_DigitalEconomy_2010_2023.pdf)  
 
-**Skills Used:** Digital economy analysis, data visualization, econometric trend analysis, sectoral policy evaluation, literature synthesis.  
+**Skills Used:** Digital economy analysis, secondary data research, trend analysis, data visualization, policy evaluation, literature synthesis.  
 
 ---
 
@@ -39,16 +39,19 @@ These works demonstrate my ability to:
 **Institution:** University of Delhi – B.A. (Hons) Economics  
 **Year:** 2022  
 
-- 📄 [View Executive Summary](./docs/UG_Research_India_US_Trade_2012_2022.pdf)  
+- 📄 [View Full Paper](./docs/04_UG_Research_India_US_Trade_2012_2022.pdf)  
 
-**Skills Used:** Trade data analysis, comparative policy research, academic writing, and team-based research project design.  
+**Skills Used:** Trade data analysis, comparative advantage evaluation, time-series methods, academic writing, policy interpretation.  
 
 ---
 
 ## 💡 About This Repository  
+
 These papers are shared as part of my professional portfolio to demonstrate **research competence, academic rigor, and policy-relevant analysis** to prospective employers, collaborators, and academic peers.  
 
-**For professional or recruitment inquiries, please connect with me on [LinkedIn]**(https://www.linkedin.com/in/vamakshi-chaturvedi-283827206/).  
+**For professional or recruitment inquiries, please connect with me on** [**LinkedIn**](https://www.linkedin.com/in/vamakshi-chaturvedi-283827206/).  
+
+---
 
 **© 2025 Vamakshi Chaturvedi. All rights reserved.**  
 
