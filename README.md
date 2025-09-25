@@ -1,8 +1,8 @@
 # 📑 Research Papers Portfolio
 
-This repository showcases selected academic and independent research papers completed during my undergraduate and postgraduate studies in **Economics**, along with an independent paper on the **Digital Economy**.  
+This repository showcases selected academic and independent research papers completed during my undergraduate and postgraduate studies in Economics, along with an independent paper on the Digital Economy.
 
-These works demonstrate my ability to:  
+These works demonstrate my ability to:
 - Analyze complex economic issues using both quantitative and qualitative methods.  
 - Apply econometric models, statistical analysis, and theoretical frameworks to real-world problems.  
 - Deliver policy-oriented insights in a clear, structured, and professional format.  
@@ -15,7 +15,11 @@ These works demonstrate my ability to:
 **Title:** Reasons Behind Rising Unemployment Among University Graduates in India  
 **Institution:** University of Manchester – MSc Economics  
 **Year:** 2025  
-📄 [View Full Paper](./docs/Dissertation_GraduateUnemployment_India_2025.pdf)  
+
+- 📄 [View Executive Summary](./docs/Dissertation_ExecutiveSummary_GraduateUnemployment_India_2025.pdf)  
+- 📄 [View Full Paper](./docs/Dissertation_GraduateUnemployment_India_2025.pdf)  
+
+**Skills Used:** Fixed Effects Panel Data Regression, Ridge Regularization, econometric modeling, robustness checks, policy analysis, qualitative case studies.  
 
 ---
 
@@ -23,7 +27,10 @@ These works demonstrate my ability to:
 **Title:** The Rise of the Digital Economy: An Economic Analysis of E-Commerce and Digital Services (2010–2023)  
 **Type:** Independent Project  
 **Year:** 2025  
-📄 [View Full Paper](./docs/Independent_Research_DigitalEconomy_2010_2023.pdf)  
+
+- 📄 [View Executive Summary](./docs/Independent_Research_DigitalEconomy_2010_2023.pdf)  
+
+**Skills Used:** Digital economy analysis, data visualization, econometric trend analysis, sectoral policy evaluation, literature synthesis.  
 
 ---
 
@@ -31,21 +38,18 @@ These works demonstrate my ability to:
 **Title:** India–U.S. Trade Relations: A Decadal Review (2012–2022)  
 **Institution:** University of Delhi – B.A. (Hons) Economics  
 **Year:** 2022  
-📄 [View Full Paper](./docs/UG_Research_India_US_Trade_2012_2022.pdf)  
+
+- 📄 [View Executive Summary](./docs/UG_Research_India_US_Trade_2012_2022.pdf)  
+
+**Skills Used:** Trade data analysis, comparative policy research, academic writing, and team-based research project design.  
 
 ---
 
 ## 💡 About This Repository  
-
 These papers are shared as part of my professional portfolio to demonstrate **research competence, academic rigor, and policy-relevant analysis** to prospective employers, collaborators, and academic peers.  
 
----
+**For professional or recruitment inquiries, please connect with me on [LinkedIn]**(https://www.linkedin.com/in/vamakshi-chaturvedi-283827206/).  
 
-**For professional or recruitment inquiries, please connect with me on** **[LinkedIn](https://www.linkedin.com/in/vamakshi-chaturvedi-283827206/)**.
+**© 2025 Vamakshi Chaturvedi. All rights reserved.**  
 
----
-
-**© 2025 Vamakshi Chaturvedi.**  
-
-All rights reserved. The research papers in this repository are original works prepared for academic and professional purposes.  
-They may not be copied, reproduced, or distributed without explicit permission from the author.  
+The research papers in this repository are original works prepared for academic and professional purposes. They may not be copied, reproduced, or distributed without explicit permission from the author.  
