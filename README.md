@@ -19,7 +19,7 @@ These works demonstrate my ability to:
 - 📄 [View Executive Summary](https://github.com/Vamakshi6402/Research-Papers/blob/main/docs/01_Dissertation_ExecutiveSummary_GraduateUnemployment_India_2025.pdf)  
 - 📄 [View Full Dissertation](./docs/02_Dissertation_GraduateUnemployment_India_2025.pdf)  
 
-**Skills Used:** Fixed Effects Panel Data Regression, Ridge Regularization, econometric modeling, robustness checks, policy analysis, qualitative case studies.  
+**Skills Used:** Fixed-effects panel regression, ridge regularization, panel diagnostics (e.g., Hausman test), robustness checks, variable selection/feature engineering, policy analysis, qualitative triangulation.
 
 ---
 
@@ -30,7 +30,7 @@ These works demonstrate my ability to:
 
 - 📄 [View Full Paper](./docs/03_Independent_Research_DigitalEconomy_2010_2023.pdf)  
 
-**Skills Used:** Digital economy analysis, secondary data research, trend analysis, data visualization, policy evaluation, literature synthesis.  
+**Skills Used:** Digital economy/sector analysis, secondary data synthesis, trend and phase segmentation (2010–2015, 2016–2019, 2020–2023), data visualization, regulatory/policy evaluation, literature synthesis.
 
 ---
 
@@ -41,7 +41,7 @@ These works demonstrate my ability to:
 
 - 📄 [View Full Paper](./docs/04_UG_Research_India_US_Trade_2012_2022.pdf)  
 
-**Skills Used:** Trade data analysis, comparative advantage evaluation, time-series methods, academic writing, policy interpretation.  
+**Skills Used:** Trade composition & time-series analysis, pre/post-COVID comparison, comparative-advantage evaluation, data visualization, academic writing, policy interpretation.
 
 ---
 
@@ -49,7 +49,9 @@ These works demonstrate my ability to:
 
 These papers are shared as part of my professional portfolio to demonstrate **research competence, academic rigor, and policy-relevant analysis** to prospective employers, collaborators, and academic peers.  
 
-**For professional or recruitment inquiries, please connect with me on** [**LinkedIn**](https://www.linkedin.com/in/vamakshi-chaturvedi-283827206/).  
+---
+
+**For professional and recruitment inquiries, please connect with me on** [**LinkedIn**](https://www.linkedin.com/in/vamakshi-chaturvedi-283827206/).  
 
 ---
 
