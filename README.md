@@ -30,7 +30,7 @@ These works demonstrate my ability to:
 
 - 📄 [View Full Paper](./docs/03_Independent_Research_DigitalEconomy_2010_2023.pdf)  
 
-**Skills Used:** Digital-economy and sector analysis, secondary data synthesis, trend and phase segmentation (2010–2023), data visualization, regulatory evaluation, and literature synthesis.
+**Skills Used:** Digital-economy and sector analysis, secondary data collection and integration, literature synthesis, trend and phase segmentation (2010–2023), data visualization, regulatory evaluation. 
 
 ---
 
