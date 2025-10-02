@@ -5,7 +5,10 @@ This repository showcases selected academic research papers completed during my 
 These works demonstrate my ability to:
 - Analyze complex economic issues using both quantitative and qualitative methods.  
 - Apply econometric models, statistical analysis, and theoretical frameworks to real-world problems.  
-- Deliver policy-oriented insights in a clear, structured, and professional format.  
+- Deliver policy-oriented insights in a clear, structured, and professional format.
+
+- Together, these three papers showcase depth in economics, international trade, and the digital economy. Each work highlights advanced research, data analysis, and policy interpretation skills, and reflects a progression from undergraduate to postgraduate independent research, signalling both academic rigor and applied policy relevance.
+
 
 ---
 
