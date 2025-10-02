@@ -8,7 +8,7 @@ These works demonstrate my ability to:
 - Deliver policy-oriented insights in a clear, structured, and professional format.
   
 
-Together, these three papers showcase depth in economics, international trade, and the digital economy. Each work highlights advanced research, data analysis, and policy interpretation skills, reflecting a progression from undergraduate to postgraduate independent research that signals both academic rigor and applied policy relevance.
+Together, these three papers showcase depth in economics, international trade, and the digital economy. They highlight advanced research, data analysis, and policy interpretation skills, reflecting a progression from undergraduate to postgraduate independent work — signaling both academic rigor and applied policy relevance.
 
 ---
 
