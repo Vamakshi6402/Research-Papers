@@ -1,14 +1,14 @@
 # 📑 Research Papers Portfolio
 
-This repository showcases selected academic research papers completed during my undergraduate and postgraduate studies in Economics, along with an independent research project on the Digital Economy.
+This repository showcases selected academic research papers completed during my **undergraduate and postgraduate studies in Economics**, along with an **independent research project on the Digital Economy.**
 
 These works demonstrate my ability to:
-- Analyze complex economic issues using both quantitative and qualitative methods.  
-- Apply econometric models, statistical analysis, and theoretical frameworks to real-world problems.  
-- Deliver policy-oriented insights in a clear, structured, and professional format.
+- Analyze complex economic issues using both **quantitative and qualitative methods.**  
+- Apply **econometric models, statistical analysis, and theoretical frameworks** to real-world problems.  
+- Deliver **policy-oriented insights** in a clear, structured, and professional format.
   
 
-Together, these three papers showcase depth in economics, international trade, and the digital economy. They highlight advanced research, data analysis, and policy interpretation skills, reflecting a progression from undergraduate to postgraduate independent work — signaling both academic rigor and applied policy relevance.
+Together, these three papers showcase **depth in economics, international trade, and the digital economy.** They highlight advanced research, data analysis, and policy interpretation skills, reflecting a progression from undergraduate to postgraduate independent work — signaling both **academic rigor and applied policy relevance.**
 
 ---
 
