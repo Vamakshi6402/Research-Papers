@@ -7,8 +7,7 @@ These works demonstrate my ability to:
 - Apply econometric models, statistical analysis, and theoretical frameworks to real-world problems.  
 - Deliver policy-oriented insights in a clear, structured, and professional format.
 
-- Together, these three papers showcase depth in economics, international trade, and the digital economy. Each work highlights advanced research, data analysis, and policy interpretation skills, and reflects a progression from undergraduate to postgraduate independent research, signalling both academic rigor and applied policy relevance.
-
+Together, these three papers showcase depth in economics, international trade, and the digital economy. Each work highlights advanced research, data analysis, and policy interpretation skills, reflecting a progression from undergraduate to postgraduate independent research that signals both academic rigor and applied policy relevance.
 
 ---
 
