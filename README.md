@@ -54,7 +54,9 @@ These papers are shared as part of my professional portfolio to demonstrate my *
 
 ---
 
-**For professional and recruitment inquiries, please connect with me on** [**LinkedIn**](https://www.linkedin.com/in/vamakshi-chaturvedi-283827206/).  
+## 🔗 Related Links  
+👤 [My LinkedIn Profile](https://www.linkedin.com/in/vamakshi-chaturvedi-283827206/)  
+🧠 [My ORCID ID](https://orcid.org/0009-0003-3307-783X)
 
 ---
 
