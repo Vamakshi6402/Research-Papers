@@ -33,7 +33,7 @@ Together, these three papers showcase **depth in economics, international trade,
 
 - 📄 [View Full Paper](./docs/03_Independent_Research_DigitalEconomy_2010_2023.pdf)  
 
-**Skills Used:** Digital-economy and sector analysis, secondary data collection and integration, literature synthesis, trend and phase segmentation (2010–2023), data visualization, regulatory evaluation. 
+**Skills Used:** Digital-economy and sector analysis, secondary data collection and integration, literature synthesis, trend and phase segmentation (2010–2023), data visualization, and regulatory evaluation. 
 
 ---
 
