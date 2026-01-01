@@ -35,7 +35,7 @@ Fixed-effects panel regression, ridge regularization, panel diagnostics (Hausman
 **Year:** 2025  
 
 📄 **Full Paper:**  
-- [View Full Paper](docs/03_Chaturvedi_DigitalEconomy_ECommerce_DigitalServices_2010_2023_Working_Paper.pdf)
+- [View Full Paper](https://github.com/Vamakshi6402/Research-Papers/blob/main/docs/03_Chaturvedi_DigitalEconomy_ECommerce_DigitalServices_2010-2023_WorkingPaper.pdf)
 
 **Skills Used:**  
 Digital-economy analysis, secondary data integration, trend and phase segmentation (2010–2023), regulatory and policy evaluation, sectoral analysis, data visualization.
