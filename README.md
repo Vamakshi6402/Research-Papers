@@ -19,7 +19,7 @@ Together, these papers showcase depth in economics, international trade, and the
 **Year:** 2025  
 
 📄 **Executive Summary:**  
-- [View Executive Summary](docs/01_Chaturvedi_Graduate_Unemployment_India_2011_2023_Executive_Summary.pdf)
+- [View Executive Summary](https://github.com/Vamakshi6402/Research-Papers/blob/main/docs/01_Chaturvedi_Graduate_Unemployment_India_2011_2023_Executive_Summary.pdf)
 
 📄 **Working Paper:**  
 - [View Full Working Paper](docs/02_Chaturvedi_Graduate_Unemployment_India_2011_2023_Working_Paper.pdf)
