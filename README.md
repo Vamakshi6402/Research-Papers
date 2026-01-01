@@ -48,7 +48,7 @@ Digital-economy analysis, secondary data integration, trend and phase segmentati
 **Year:** 2022  
 
 📄 **Working Paper:**  
-- [View Full Paper](docs/04_Chaturvedi_India_US_Trade_Relations_2012_2022_Working_Paper.pdf)
+- [View Full Paper](https://github.com/Vamakshi6402/Research-Papers/blob/main/docs/04_Chaturvedi_India_US_Trade_Relations_2012_2022_Working_Paper.pdf)
 
 **Skills Used:**  
 Trade composition analysis, time-series evaluation, pre- and post-COVID comparison, comparative advantage assessment, policy interpretation, and academic writing.
