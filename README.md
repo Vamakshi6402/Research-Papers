@@ -22,7 +22,7 @@ Together, these papers showcase depth in economics, international trade, and the
 - [View Executive Summary](https://github.com/Vamakshi6402/Research-Papers/blob/main/docs/01_Chaturvedi_Graduate_Unemployment_India_2011_2023_Executive_Summary.pdf)
 
 📄 **Working Paper:**  
-- [View Full Working Paper](docs/02_Chaturvedi_Graduate_Unemployment_India_2011_2023_Working_Paper.pdf)
+- [View Full Working Paper](https://github.com/Vamakshi6402/Research-Papers/blob/main/docs/02_Chaturvedi_Graduate_Unemployment_India_2011_2023_Working_Paper.pdf)
 
 **Skills Used:**  
 Fixed-effects panel regression, ridge regularization, panel diagnostics (Hausman test), robustness checks, labour-market analysis, policy evaluation, quantitative–qualitative triangulation.
