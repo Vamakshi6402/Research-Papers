@@ -13,52 +13,47 @@ Together, these papers showcase depth in economics, international trade, and the
 
 ## 📂 Included Papers
 
-### 1. MSc Dissertation (Executive Summary & Working Paper)
-
+### 1) MSc Dissertation (Executive Summary & Working Paper)
 **Title:** Graduate Unemployment in India (2011–2023): An Empirical Analysis of Labour-Market Determinants and Policy Implications  
 **Institution:** The University of Manchester – MSc Economics  
 **Year:** 2025  
 
 📄 **Executive Summary:**  
-[View Executive Summary](docs/01_Chaturvedi_Graduate_Unemployment_India_2011_2023_Executive_Summary.pdf)
+- [View Executive Summary](docs/01_Chaturvedi_Graduate_Unemployment_India_2011_2023_Executive_Summary.pdf)
 
 📄 **Working Paper:**  
-[View Full Working Paper](docs/02_Chaturvedi_Graduate_Unemployment_India_2011_2023_Working_Paper.pdf)
+- [View Full Working Paper](docs/02_Chaturvedi_Graduate_Unemployment_India_2011_2023_Working_Paper.pdf)
 
 **Skills Used:**  
 Fixed-effects panel regression, ridge regularization, panel diagnostics (Hausman test), robustness checks, labour-market analysis, policy evaluation, quantitative–qualitative triangulation.
 
 ---
 
-### 2. Independent Research Paper (Digital Economy)
-
+### 2) Independent Research Paper (Digital Economy)
 **Title:** The Rise of the Digital Economy: An Economic Analysis of E-Commerce and Digital Services (2010–2023)  
 **Type:** Independent Research Paper  
 **Year:** 2025  
 
 📄 **Full Paper:**  
-[View Full Paper](docs/03_Chaturvedi_DigitalEconomy_ECommerce_DigitalServices_2010_2023_Working_Paper.pdf)
+- [View Full Paper](docs/03_Chaturvedi_DigitalEconomy_ECommerce_DigitalServices_2010_2023_Working_Paper.pdf)
 
 **Skills Used:**  
 Digital-economy analysis, secondary data integration, trend and phase segmentation (2010–2023), regulatory and policy evaluation, sectoral analysis, data visualization.
 
 ---
 
-### 3. Undergraduate Research Project (International Trade)
-
+### 3) Undergraduate Research Project (International Trade)
 **Title:** India–U.S. Trade Relations: An Empirical Analysis of Bilateral Dynamics and Policy Implications (2012–2022)  
 **Institution:** University of Delhi – B.A. (Hons) Economics  
 **Year:** 2022  
 
 📄 **Working Paper:**  
-[View Full Paper](docs/04_Chaturvedi_India_US_Trade_Relations_2012_2022_Working_Paper.pdf)
+- [View Full Paper](docs/04_Chaturvedi_India_US_Trade_Relations_2012_2022_Working_Paper.pdf)
 
 **Skills Used:**  
 Trade composition analysis, time-series evaluation, pre- and post-COVID comparison, comparative advantage assessment, policy interpretation, and academic writing.
 
 ---
-
-## 💡 About This Repository
 
 These papers are shared as part of my professional portfolio to demonstrate research competence, academic rigor, and policy-relevant economic analysis to prospective employers, collaborators, and academic reviewers.
 
