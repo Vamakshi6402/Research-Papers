@@ -1,56 +1,66 @@
 # 📑 Research Papers Portfolio
 
-This repository showcases selected academic research papers completed during my **undergraduate and postgraduate studies in Economics**, along with an ***independent research project* on the Digital Economy.**
+This repository showcases selected academic research papers completed during my undergraduate and postgraduate studies in Economics, along with an independent research project on the Digital Economy.
 
 These works demonstrate my ability to:
-- Analyze complex economic issues using both **quantitative and qualitative methods.**  
-- Apply **econometric models, statistical analysis, and theoretical frameworks** to real-world problems.  
-- Deliver **policy-oriented insights** in a clear, structured, and professional format.
-  
+- Analyze complex economic issues using both quantitative and qualitative methods.
+- Apply econometric models, statistical analysis, and theoretical frameworks to real-world problems.
+- Deliver policy-oriented insights in a clear, structured, and professional format.
 
-Together, these three papers showcase **depth in economics, international trade, and the digital economy.** They highlight **advanced research aptitude, data analysis, and policy interpretation skills**, reflecting a progression from undergraduate to postgraduate independent work — signaling both ***academic rigor and practical economic relevance.***
+Together, these papers showcase depth in economics, international trade, and the digital economy. They highlight advanced research aptitude, data analysis, and policy interpretation skills, reflecting a progression from undergraduate to postgraduate independent work — signaling both academic rigor and practical economic relevance.
 
 ---
 
 ## 📂 Included Papers
 
-### 1. MSc Dissertation  
-**Title:** Reasons Behind Rising Unemployment Among University Graduates in India  
-**Institution:** University of Manchester – MSc Economics  
+### 1. MSc Dissertation (Executive Summary & Working Paper)
+
+**Title:** Graduate Unemployment in India (2011–2023): An Empirical Analysis of Labour-Market Determinants and Policy Implications  
+**Institution:** The University of Manchester – MSc Economics  
 **Year:** 2025  
 
-- 📄 [View Executive Summary](https://github.com/Vamakshi6402/Research-Papers/blob/main/docs/01_Dissertation_ExecutiveSummary_GraduateUnemployment_India_2025.pdf)  
-- 📄 [View Full Dissertation](./docs/02_Dissertation_GraduateUnemployment_India_2025.pdf)  
+📄 **Executive Summary:**  
+[View Executive Summary](docs/01_Chaturvedi_Graduate_Unemployment_India_2011_2023_Executive_Summary.pdf)
 
-**Skills Used:** Fixed-effects panel regression, ridge regularization, panel diagnostics (e.g., Hausman test), robustness checks, policy analysis, qualitative triangulation.
+📄 **Working Paper:**  
+[View Full Working Paper](docs/02_Chaturvedi_Graduate_Unemployment_India_2011_2023_Working_Paper.pdf)
+
+**Skills Used:**  
+Fixed-effects panel regression, ridge regularization, panel diagnostics (Hausman test), robustness checks, labour-market analysis, policy evaluation, quantitative–qualitative triangulation.
 
 ---
 
-### 2. Independent Research Paper  
+### 2. Independent Research Paper (Digital Economy)
+
 **Title:** The Rise of the Digital Economy: An Economic Analysis of E-Commerce and Digital Services (2010–2023)  
-**Type:** Independent Project  
+**Type:** Independent Research Paper  
 **Year:** 2025  
 
-- 📄 [View Full Paper](./docs/03_Independent_Research_DigitalEconomy_2010_2023.pdf)  
+📄 **Full Paper:**  
+[View Full Paper](docs/03_Chaturvedi_DigitalEconomy_ECommerce_DigitalServices_2010_2023_Working_Paper.pdf)
 
-**Skills Used:** Digital-economy and sector analysis, secondary data collection and integration, literature synthesis, trend and phase segmentation (2010–2023), data visualization, and regulatory evaluation. 
+**Skills Used:**  
+Digital-economy analysis, secondary data integration, trend and phase segmentation (2010–2023), regulatory and policy evaluation, sectoral analysis, data visualization.
 
 ---
 
-### 3. Undergraduate Research Project  
-**Title:** India–U.S. Trade Relations: A Decadal Review (2012–2022)  
+### 3. Undergraduate Research Project (International Trade)
+
+**Title:** India–U.S. Trade Relations: An Empirical Analysis of Bilateral Dynamics and Policy Implications (2012–2022)  
 **Institution:** University of Delhi – B.A. (Hons) Economics  
 **Year:** 2022  
 
-- 📄 [View Full Paper](./docs/04_UG_Research_India_US_Trade_2012_2022.pdf)  
+📄 **Working Paper:**  
+[View Full Paper](docs/04_Chaturvedi_India_US_Trade_Relations_2012_2022_Working_Paper.pdf)
 
-**Skills Used:** Trade composition and time-series analysis, pre- and post-COVID comparison, comparative-advantage evaluation, data visualization, academic writing, policy interpretation.
+**Skills Used:**  
+Trade composition analysis, time-series evaluation, pre- and post-COVID comparison, comparative advantage assessment, policy interpretation, and academic writing.
 
 ---
 
-## 💡 About This Repository  
+## 💡 About This Repository
 
-These papers are shared as part of my professional portfolio to demonstrate my **research competence, academic rigor, and policy-relevant analysis** to prospective employers, collaborators, and academic peers.  
+These papers are shared as part of my professional portfolio to demonstrate research competence, academic rigor, and policy-relevant economic analysis to prospective employers, collaborators, and academic reviewers.
 
 ---
 
