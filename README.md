@@ -58,7 +58,9 @@ Trade composition analysis, time-series evaluation, pre- and post-COVID comparis
 
 ---
 
-These papers are shared as part of my professional portfolio to demonstrate research competence, academic rigor, and policy-relevant economic analysis to prospective employers, collaborators, and academic reviewers. Published journal versions are listed on my ORCID profile; this repository hosts working-paper and reproducible research versions.
+These papers are shared as part of my professional portfolio to demonstrate research competence, academic rigor, and policy-relevant economic analysis to prospective employers, collaborators, and academic reviewers. 
+
+Published journal versions are listed on my ORCID profile; this repository hosts working-paper and reproducible research versions.
 
 ---
 
