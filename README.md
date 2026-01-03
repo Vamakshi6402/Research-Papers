@@ -17,6 +17,7 @@ Together, these papers showcase depth in economics, international trade, and the
 **Title:** Graduate Unemployment in India (2011–2023): An Empirical Analysis of Labour-Market Determinants and Policy Implications  
 **Institution:** The University of Manchester – MSc Economics  
 **Year:** 2025  
+**Publication status:** Published in *International Journal of Education and Social Science Research* (2026) | DOI: https://doi.org/10.37500/IJESSR.2025.8616
 
 📄 **Executive Summary:**  
 - [View Executive Summary](https://github.com/Vamakshi6402/Research-Papers/blob/main/docs/01_Chaturvedi_Graduate_Unemployment_India_2011_2023_Executive_Summary.pdf)
@@ -33,6 +34,7 @@ Fixed-effects panel regression, ridge regularization, panel diagnostics (Hausman
 **Title:** The Rise of the Digital Economy: An Economic Analysis of E-Commerce and Digital Services (2010–2023)  
 **Type:** Independent Research Paper  
 **Year:** 2025  
+**Publication status:** Published in *International Journal of Research and Innovation in Social Science* (2025) | DOI: https://doi.org/10.47772/IJRISS.2025.91100326
 
 📄 **Full Paper:**  
 - [View Full Paper](https://github.com/Vamakshi6402/Research-Papers/blob/main/docs/03_Chaturvedi_DigitalEconomy_ECommerce_DigitalServices_2010-2023_WorkingPaper.pdf)
@@ -46,6 +48,7 @@ Digital-economy analysis, secondary data integration, trend and phase segmentati
 **Title:** India–U.S. Trade Relations: An Empirical Analysis of Bilateral Dynamics and Policy Implications (2012–2022)  
 **Institution:** University of Delhi – B.A. (Hons) Economics  
 **Year:** 2022  
+**Publication status:** SSRN Working Paper | DOI: https://doi.org/10.2139/ssrn.5860682
 
 📄 **Working Paper:**  
 - [View Full Paper](https://github.com/Vamakshi6402/Research-Papers/blob/main/docs/04_Chaturvedi_India_US_Trade_Relations_2012_2022_Working_Paper.pdf)
@@ -55,7 +58,7 @@ Trade composition analysis, time-series evaluation, pre- and post-COVID comparis
 
 ---
 
-These papers are shared as part of my professional portfolio to demonstrate research competence, academic rigor, and policy-relevant economic analysis to prospective employers, collaborators, and academic reviewers.
+These papers are shared as part of my professional portfolio to demonstrate research competence, academic rigor, and policy-relevant economic analysis to prospective employers, collaborators, and academic reviewers. Published journal versions are listed on my ORCID profile; this repository hosts working-paper and reproducible research versions.
 
 ---
 
