@@ -9,9 +9,8 @@ These works demonstrate my ability to:
 
 Together, these papers showcase depth in economics, international trade, and the digital economy. They highlight advanced research aptitude, data analysis, and policy interpretation skills, **reflecting a progression from undergraduate to postgraduate independent work** — signaling both academic rigor and practical economic relevance.
 
----
-
 **Note on versions:**
+
 The documents hosted in this repository are working papers, executive summaries, and portfolio versions derived from original undergraduate projects, MSc dissertation research, and independent studies. Final peer-reviewed and published versions are available via the linked DOIs and on my ORCID profile.
 
 ---
