@@ -11,6 +11,12 @@ Together, these papers showcase depth in economics, international trade, and the
 
 ---
 
+# Note on versions:
+
+The documents hosted in this repository are working papers, executive summaries, and portfolio versions derived from original undergraduate projects, MSc dissertation research, and independent studies. Final peer-reviewed and published versions are available via the linked DOIs and on my ORCID profile.
+
+---
+
 ## 📂 Included Papers
 
 ### 1) MSc Dissertation (Executive Summary & Working Paper)
