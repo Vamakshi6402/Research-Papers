@@ -34,7 +34,7 @@ Fixed-effects panel regression, ridge regularization, panel diagnostics (Hausman
 **Title:** The Rise of the Digital Economy: An Economic Analysis of E-Commerce and Digital Services (2010–2023)  
 **Type:** Independent Research Paper  
 **Year:** 2025  
-**Publication status:** Published in *International Journal of Research and Innovation in Social Science* (2025) | DOI: https://doi.org/10.47772/IJRISS.2025.91100326
+**Publication status:** Published in *International Journal of Research and Innovation in Social Science* (2025) | DOI: https://doi.org/10.47772/IJRISS.2025.91100639
 
 📄 **Full Paper:**  
 - [View Full Paper](https://github.com/Vamakshi6402/Research-Papers/blob/main/docs/03_Chaturvedi_DigitalEconomy_ECommerce_DigitalServices_2010-2023_WorkingPaper.pdf)
